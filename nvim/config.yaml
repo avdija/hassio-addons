@@ -1,0 +1,15 @@
+name: "Nvim"
+description: "Nvim"
+version: "1.4.5"
+slug: "nvim"
+init: false
+map:
+  - share:rw
+  - media:rw
+  - addon_config:rw
+  - homeassistant_config:rw
+arch:
+  - amd64
+startup: services
+ports:
+  22/tcp: 22

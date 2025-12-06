@@ -1,0 +1,6 @@
+{
+  "name": "HA Add-ons by avdija",
+  "udev": true,
+  "url": "https://github.com/avdija/hassio-addons.git",
+  "maintainer": "avdija"
+}
