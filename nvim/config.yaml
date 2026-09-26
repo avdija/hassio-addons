@@ -1,6 +1,6 @@
 name: "Nvim"
 description: "Nvim"
-version: "1.4.7"
+version: "1.4.8"
 slug: "nvim"
 init: false
 map:
